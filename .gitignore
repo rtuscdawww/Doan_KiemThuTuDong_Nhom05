@@ -1,0 +1,10 @@
+target/
+.vscode/
+.idea/
+.settings/
+.classpath
+.project
+*.class
+*.log
+.env
+ChromeSeleniumProfile/
